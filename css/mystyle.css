@@ -25,9 +25,20 @@ background: url(../img/288.jpg) no-repeat center center fixed;
 .text-shadow {
     text-shadow: 3px 1px 5px #721c24;
 }
-p{
-    color:
+.tel{
+    text-decoration: none;
+    color:white;
 }
-
-    
+.cuote{
+    font-family: 'Indie Flower', cursive;
+}
+.text-lg{
+    font-size: 2rem;
+    color:firebrick;
+}
+.clear{
+    clear:both;
+}
+.pregunta{
+    font-size:2rem;
 }
